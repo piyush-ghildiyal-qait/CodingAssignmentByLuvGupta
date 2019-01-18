@@ -20,7 +20,7 @@ public class Calculate {
 		System.out.println("Enter Breadth in centimeters:");
 		double breadth = sc.nextDouble();
 		double area = length*breadth;
-		System.out.println("The area of circle is:"+area+" square centimeters.");
+		System.out.println("The area of reactangle is:"+area+" square centimeters.");
 		
 	}
 	
@@ -29,7 +29,7 @@ public class Calculate {
 		System.out.println("Enter Side in centimeters:");
 		double side = sc.nextDouble();
 		double area = side*side;
-		System.out.println("The area of circle is:"+area+" square centimeters.");
+		System.out.println("The area of square is:"+area+" square centimeters.");
 		
 	}
 	
@@ -39,7 +39,7 @@ public class Calculate {
 		System.out.println("Enter Height in centimeters:");
 		double height = sc.nextDouble();
 		double area = (1.0/2.0)*base*height;
-		System.out.println("The area of circle is:"+area+" square centimeters.");
+		System.out.println("The area of triangle is:"+area+" square centimeters.");
 		
 		
 	}
