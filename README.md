@@ -1,10 +1,10 @@
 # CodingAssignmentByLuvGupta
  Question(Problem Statement) ----->
 As per the figure selected by the user, i.e. 
-Circle
-rectangle
-square
-triangle
+1)Circle
+2)rectangle
+3)square
+4)triangle
 
 if its a Circle, take the radius as input
 if its a rectangle, take the length and breadth as inputs
